@@ -2,7 +2,7 @@
 - 👀 I’m interested in VHDL and Python
 - 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me IoT and aplicatio
+- 📫 How to reach me IoT and aplications
 
 <!---
 robccharles/robccharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
